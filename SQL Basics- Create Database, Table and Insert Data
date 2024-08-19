@@ -24,4 +24,4 @@ Insert Into employee_salary VALUES
 (1009, 'Accountant', 42000);
 select * from employee_demographics; -- retrieve all data from table employee_demographics
 select * from employee_salary; -- retrieve all data from employee_salary
-select (First_Name, Last_Name) from employee_demographics; -- retrieve only first and last name from table employee_demographics 
+select First_Name, Last_Name from employee_demographics; -- retrieve only first and last name from table employee_demographics 
