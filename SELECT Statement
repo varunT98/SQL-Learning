@@ -1,0 +1,21 @@
+Select Statement with Top Keyword:
+The top keyword in SQL is used in conjunction with the 
+SELECT statement to limit the number of rows returned by a query(select top 4 * from table_name)
+
+Select Statement with Distinct Keyword:
+The Distinct Keyword in SQL is used to retrieve unique values in a specific column.
+
+Select Statement with Count Keyword:
+The Count Keyword in SQL is used to show all non-null values in a column.
+
+Select Statement with AS Keyword:
+The AS Keyword in SQL is used as alias.
+
+Select Statement with Max Keyword:
+The Max Keyword in SQL is used for Max Value of an specific column.
+
+Select Statement with Min Keyword:
+The Max Keyword in SQL is used for Min Value of an specific column.
+
+Select Statement with Avg Keyword:
+The Max Keyword in SQL is used for Avg Value of an specific column.
