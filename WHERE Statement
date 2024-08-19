@@ -1,0 +1,6 @@
+WHERE Statement is used to filter records that meet a specific condition. 
+
+The condition in the WHERE clause can involve comparison operators (=, >, <, >=, <=, <>, etc.), 
+logical operators (AND, OR, NOT), and other SQL operators (like BETWEEN, LIKE, IN, IS NULL, etc.).
+
+
